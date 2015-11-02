@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! slutty ad domains
+!
+||taboola.com^
+||outbrain.com^
+||revcontent.com^
+!
+! Daily Mail classes that are loaded with the HTML instead of
+! from a separate ad provider:
+##.tvshowbiz
+##.femail
+! Not sure what these things do, so we'll comment them out for now:
+!###rantnow-ad-wrap
+!##.ac_adbox
+!##.ad
+!##.advertisement
+!##.rc-photo
+!##.rc-row
+!##.thumbBlock_holder

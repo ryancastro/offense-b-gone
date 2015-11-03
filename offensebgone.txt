@@ -1,9 +1,17 @@
 [Adblock Plus 2.0]
+!
 ! slutty ad domains
 !
 ||taboola.com^
 ||outbrain.com^
 ||revcontent.com^
+!
+!
+! Social Plugin bars that show weird crap:
+!
+!Because http://goo.gl/0oZqJX show'd "side-boob photos" and "compromised cheerleaders!"
+||yimg.com/*syndication
+!
 !
 ! Daily Mail classes that are loaded with the HTML instead of
 ! from a separate ad provider:

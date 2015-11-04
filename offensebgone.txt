@@ -18,11 +18,4 @@
 ! from a separate ad provider:
 ##.tvshowbiz
 ##.femail
-! Not sure what these things do, so we'll comment them out for now:
-!###rantnow-ad-wrap
-!##.ac_adbox
-!##.ad
-!##.advertisement
-!##.rc-photo
-!##.rc-row
-!##.thumbBlock_holder
+!

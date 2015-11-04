@@ -5,6 +5,7 @@
 ||taboola.com^
 ||outbrain.com^
 ||revcontent.com^
+||adblade.com^
 !
 !
 ! Social Plugin bars that show weird crap:

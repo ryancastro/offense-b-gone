@@ -8,8 +8,14 @@
 ||adblade.com^
 ! Bikini gals on http://goo.gl/u1FuSx
 ||mgid.com^
-!Dirty cleavage stuff http://tinyurl.com/owrdr5p
+! Dirty cleavage stuff http://tinyurl.com/owrdr5p
 ||earnify.com^
+! Bikini babes - http://goo.gl/vlQ7MP
+||zergnet.com^
+!
+! CSS selectors for tricky ads.
+! blocked zergnet.com above, but Fox reloads it from a different domain when it sees it's blocked, so we we delete it from the DOM.
+##.zergnet-mod-insert
 !
 !
 ! Social Plugin bars that show weird crap:

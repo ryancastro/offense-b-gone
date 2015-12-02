@@ -12,6 +12,8 @@
 ||earnify.com^
 ! Bikini babes - http://goo.gl/vlQ7MP
 ||zergnet.com^
+! Boobs and cheerleaders - http://goo.gl/o6PJm6
+||api.content.ad^
 !
 ! CSS selectors for tricky ads.
 ! blocked zergnet.com above, but Fox reloads it from a different domain when it sees it's blocked, so we we delete it from the DOM.

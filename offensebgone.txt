@@ -33,3 +33,10 @@
 ##.tvshowbiz
 ##.femail
 !
+!This removes any link that includes the words in quotes. Helpful if some of the ads by
+!the site are legit and others sketchy.
+!
+##a[href*="boob"]
+##a[href*="sex"]
+##a[href*="explicit"]
+!

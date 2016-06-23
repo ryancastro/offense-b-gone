@@ -39,4 +39,8 @@
 ##a[href*="boob"]
 ##a[href*="sex"]
 ##a[href*="explicit"]
+##a[href*="bikini"]
+##a[href*="butt"]
+##a[href*="swimsuit"]
+##a[href*="kissing"]
 !

@@ -43,4 +43,5 @@
 ##a[href*="butt"]
 ##a[href*="swimsuit"]
 ##a[href*="kissing"]
+##a[href*="beach-bodies"]
 !

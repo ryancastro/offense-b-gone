@@ -44,4 +44,6 @@
 ##a[href*="swimsuit"]
 ##a[href*="kissing"]
 ##a[href*="beach-bodies"]
+##a[href*="racy"]
+##a[href*="viagra"]
 !
